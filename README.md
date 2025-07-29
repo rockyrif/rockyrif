@@ -21,7 +21,7 @@ I'm a Passionate Web Developer from Sri Lanka. I like to work with PHP and NodeJ
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Mushkir&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rockyrif&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Programmer says:
 
