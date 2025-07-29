@@ -7,9 +7,7 @@ I'm a Passionate Web Developer from Sri Lanka. I like to work with PHP and NodeJ
 [![Linkedin](https://img.shields.io/badge/-Mohamed%20Rifky-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rifky-mohamed-585111218/)](https://www.linkedin.com/in/rifky-mohamed-585111218/)
 <a href="https://www.instagram.com/rocky_rif" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/94784641683)
-<a href="https://wa.me/94712345678" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
+
 
 
 
