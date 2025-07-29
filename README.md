@@ -17,7 +17,7 @@ I'm a Passionate Web Developer from Sri Lanka. I like to work with PHP and NodeJ
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mushkir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=rockyrif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## 🏆 GitHub Trophies
 
