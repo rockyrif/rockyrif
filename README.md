@@ -2,7 +2,7 @@
 
 I'm a Passionate Web Developer from Sri Lanka. I like to work with PHP and NodeJS.
 
-[![Github](https://img.shields.io/github/followers/Mushkir?label=Follow&style=social)](https://github.com/Mushkir)
+[![Github](https://img.shields.io/github/followers/rockyrif?label=Follow&style=social)](https://github.com/Mushkir)
 ![](https://komarev.com/ghpvc/?username=Mushkir&color=green)
 [![Linkedin](https://img.shields.io/badge/-Mohamed%20Mushkir-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-mushkir/)](https://www.linkedin.com/in/mohamed-mushkir/)
 <a href="https://www.instagram.com/mushkir_9611/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
