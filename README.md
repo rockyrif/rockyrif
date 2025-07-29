@@ -9,8 +9,7 @@ I'm a Passionate Web Developer from Sri Lanka. I like to work with PHP and NodeJ
 
 <h2>⚡ About Me</h2>
 
-🧐 Learning new things.<br>👨‍💻 Most of my projects are available on GitHub.<br>📝 I regularly active on my GitHub.<br>💬 Ping me about anything that makes people feel WoW.<br>📙 Check out my resume (https://mushkir.github.io/Mushkir_Resume/)
-<br>🎉 <b>Fun Fact:</b> 👉 Do It Even The Odds Arn't In Favor<br>
+🧐 Learning new things.<br>👨‍💻 Most of my projects are available on GitHub.<br>📝 I regularly active on my GitHub.<br>💬 Ping me about anything that makes people feel WoW.<br>🎉 <b>Fun Fact:</b> 👉 Do It Even The Odds Aren't In Favor<br>
 
 # 💻 Tech Stack:
 
